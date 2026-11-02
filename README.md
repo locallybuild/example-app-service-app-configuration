@@ -25,6 +25,8 @@ The app authenticates to App Configuration using a **user-assigned managed ident
 * Either [Docker](https://www.docker.com) or [Podman](https://podman.io) (recommended).
 * The Locally Plugin for `Microsoft.AppConfiguration` installed (`locally plugin install --name Microsoft.AppConfiguration`).
 * The Locally Plugin for `Microsoft.Web` installed (`locally plugin install --name Microsoft.Web`).
+* The Locally Plugin for `Microsoft.Insights` installed (`locally plugin install --name Microsoft.Insights`).
+* The Locally Plugin for `Microsoft.OperationalInsights` installed (`locally plugin install --name Microsoft.OperationalInsights`).
 
 ## Running the example
 
